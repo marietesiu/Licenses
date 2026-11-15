@@ -1,0 +1,29 @@
+Custom Non-Distribution Software License
+
+Copyright (c) 2026 [Your Name or Organization]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to view,
+use, copy, and modify the Software solely for personal, educational, or internal
+purposes, subject to the following conditions and restrictions:
+
+1. No Distribution or Commercial Use: You may NOT publish, distribute, 
+sublicense, rent, lease, lend, or sell copies of the Software or any modified 
+versions or derivative works of the Software to any third party, in whole or 
+in part, whether for commercial or non-commercial purposes.
+
+2. GitHub Forking Exception: Notwithstanding the restrictions above, users 
+may fork this repository on GitHub solely for personal viewing, testing, or 
+submitting pull requests back to the original repository, provided the fork 
+is not distributed or commercialized elsewhere.
+
+3. Copyright Notice: The above copyright notice and this permission notice 
+shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
